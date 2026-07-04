@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I'm Kavitej Vakte<br><br>🎓 I'm an AI & Machine Learning student at Sanjivani University, passionate about building innovative solutions through technology.<br><br>💡 I enjoy exploring different domains of computer science and continuously expanding my knowledge. My interests include Artificial Intelligence, Machine Learning, Data Structures & Algorithms, Python, DevOps, Cloud Computing, Web Development, and Open Source.<br><br>🚀 I believe in learning by building real-world projects, participating in hackathons, and contributing to the developer community. I'm always eager to explore new technologies and improve my problem-solving skills.<br><br>### 🌱 Currently Learning<br><br>* Artificial Intelligence & Machine Learning<br>* Data Structures & Algorithms<br>* Python Programming<br>* DevOps & Cloud Technologies<br>* Git & GitHub<br>* Full Stack Development<br><br>### 💻 Tech Interests<br><br>* AI/ML<br>* Python<br>* C++<br>* Java<br>* DevOps<br>* Cloud Computing<br>* Linux<br>* Git & GitHub<br>* Open Source<br>* Web Development<br><br>### 🎯 Goal<br><br>To become a skilled Software Engineer and AI/ML Developer by creating impactful projects, continuously learning emerging technologies, and contributing to the open-source community.<br><br>⭐ *"Code. Learn. Build. Repeat."*<br>
+# 👋 Hi, I'm Kavitej Vakte<br><br>🎓 AI & ML Student @ Sanjivani University  <br>💻 Passionate about AI/ML, Python, DSA & DevOps  <br>🚀 Always learning, building, and contributing to Open Source.
 
 
 ## 🌐 Socials:
@@ -8,9 +8,9 @@
 # 💻 Tech Stack:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kavitej Vakte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Kavitej Vakte&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kavitej Vakte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=Kavitej Vakte&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Kavitej Vakte&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kavitej Vakte&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Kavitej Vakte&icon=0&color=0)](https://visitcount.itsvg.in)
